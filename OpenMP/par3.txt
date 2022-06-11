@@ -1,0 +1,12 @@
+static chunk 6
+0.000835
+static chunk 7
+0.000656
+dynamic chunk 6
+0.000607
+dynamic chunk 7
+0.000460
+guided chunk 6
+0.000776
+guided chunk 7
+0.000812
